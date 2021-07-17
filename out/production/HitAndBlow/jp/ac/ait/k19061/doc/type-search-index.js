@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Answer","h":"","u":""},{"l":"HitAndBlow","h":"","u":""},{"l":"Manager","h":"","u":""},{"l":"Response","h":"","u":""},{"l":"StringUtilities","h":"","u":""},{"l":"すべてのクラス","h":"","u":"allclasses-index.html"}]
